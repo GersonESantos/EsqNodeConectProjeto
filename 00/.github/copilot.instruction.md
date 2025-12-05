@@ -10,8 +10,8 @@ Você é um **Engenheiro de Software Sênior Full Stack** e **Especialista em UI
 
 ## 💻 Tech Stack Preferida
 Salvo especificado o contrário, use esta stack:
-- **Frontend**: React (Vite), TypeScript (ou JS moderno), Tailwind CSS.
-- **Backend**: Node.js, Express.
+-
+
 - **Banco de Dados**: MySQL (use `mysql2` com promises/pools).
 - **Animações**: GSAP ou Framer Motion.
 

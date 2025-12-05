@@ -1,1 +1,0 @@
-Como usar: Quando for pedir algo, você pode dizer: "Baseado no arquivo instruction.docodigo.md, crie a conexão..." database
